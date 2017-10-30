@@ -17,3 +17,12 @@
 /yarn-error.log
 
 .byebug_history
+
+vendor/bundle
+*.swp
+*~
+.project
+.DS_Store
+*.bak
+tags
+.idea
